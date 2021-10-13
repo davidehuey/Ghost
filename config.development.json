@@ -1,3 +1,6 @@
 {
-    "enableDeveloperExperiments": true
+  "enableDeveloperExperiments": true,
+  "server": {
+    "host": "0.0.0.0"
+  }
 }
